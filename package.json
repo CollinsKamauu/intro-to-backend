@@ -1,0 +1,20 @@
+{
+  "name": "intro-to-backend",
+  "version": "1.0.0",
+  "description": "a tutorial for intro to backend",
+  "homepage": "https://github.com/CollinsKamauu/intro-to-backend#readme",
+  "bugs": {
+    "url": "https://github.com/CollinsKamauu/intro-to-backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CollinsKamauu/intro-to-backend.git"
+  },
+  "license": "ISC",
+  "author": "Collins",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
